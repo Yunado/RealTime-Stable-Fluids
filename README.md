@@ -1,4 +1,4 @@
-# CSC417-Final-Project
+# Physics-Based Animation: 2D Real Time Stable Fluids
 2D Stable Fluids
 Python implementation of Stable Fluids by Jos Stam with Numpy and Pygame.
 
